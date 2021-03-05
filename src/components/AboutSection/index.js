@@ -22,7 +22,7 @@ function AboutSection() {
                             open to any and all opportunities relevant to my skills(i.e, internships, part-time). I am excited and I am ready to merge my shared purpose from experience and my newly developed technical skills with an even
                             better industry that allows, enables, and focuses on creativity and collabortive team work building both useful and amazing objects on the web for the world to experience and enjoy. 
                         </p>
-                        <img src={profilePic} alt="franb" style{{ width: 175 }} />
+                        <img src={profilePic} alt="franb" style={{ width: 175 }} />
                     </div>
                 </div>
             </div>
