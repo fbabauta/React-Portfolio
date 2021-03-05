@@ -7,7 +7,7 @@ import PortfolioPage from "./pages/PortfolioPage";
 import ContactCanvas from "./components/ContactCanvas";
 import Footer from "./components/Footer";
 import ResumeModal from "./components/ResumeModal";
-import MobileMenu from "./components/Navbar/MobileMenu";
+import MobileMenu from "./components/NavBar/MobileMenu";
 
 function App() {
   return (

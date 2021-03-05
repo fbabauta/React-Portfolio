@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import Navbar from "../../components/Navbar";
+import Navbar from "../../components/NavBar";
 import HomeHeader from "../../components/HomeHeader";
 import AboutSection from "../../components/AboutSection";
 import BackgroundImage from "../../components/BackgroundImage";
@@ -14,6 +14,6 @@ function AboutPage() {
             <AboutSection />
         </BackgroundImage>
     )
-};
+}
 
 export default AboutPage;
