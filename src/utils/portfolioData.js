@@ -1,4 +1,4 @@
-import budget-DB from "../assets/images/portfolio/budget-DB.jpg";
+import budgetDB from "../assets/images/portfolio/budget-DB.jpg";
 import burgerdemo from "../assets/images/portfolio/burgerdemo.jpg";
 import codequiz from "../assets/images/portfolio/codequiz.jpg";
 import dayplanner from "../assets/images/portfolio/dayplanner.png";
