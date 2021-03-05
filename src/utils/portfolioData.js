@@ -26,3 +26,5 @@ const employeeDirCard = new ProjectCard(
     "https://fbabauta.github.io/employee-directory/",
     "https://github.com/fbabauta/Employee-Directory"
 );
+
+export default portfolioData;
