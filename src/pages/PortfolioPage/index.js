@@ -31,6 +31,6 @@ function PortfolioPage() {
             </CardContainer>
         </BackgroundImage>
     )
-}
+};
 
 export default PortfolioPage;

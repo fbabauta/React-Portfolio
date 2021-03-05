@@ -12,7 +12,7 @@ function PortfolioCard(props) {
                         <ul className="uk-slideshow-items">
                             <li>
                                 <h3 className="uk-card-title project-title">{props.title}</h3>
-                                <p classname="project-description">{props.about}</p>
+                                <p className="project-description">{props.about}</p>
                             </li>
                             <li>
                                 <img src={props.imgURL} alt="" uk-cover="true" />
@@ -24,7 +24,10 @@ function PortfolioCard(props) {
                 <div className="uk-card-footer portfolio-card-footer">
                     <div className="uk-text-center">
                         <a href={props.siteURL} target="_blank" className="btn-link">
-                            <button className="uk-button uk-button-default portfolio-btn">Github Repo</button>
+                            <button className="uk-button uk-button-default portfolio-btn">View Website</button>
+                        </a>
+                        <a href={props.repoURL} target="_blank" className="btn-link">
+                            <button className="uk-button uk-button-default portfolio-btn">GitHub Repo</button>
                         </a>
                     </div>
                 </div>

@@ -40,6 +40,6 @@ function SkillsPage(props) {
             </CardContainer>
         </BackgroundImage>
     )
-}
+};
 
 export default SkillsPage;

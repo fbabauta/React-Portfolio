@@ -5,7 +5,7 @@ import "./style.css";
 
 function MobileMenu() {
     return (
-         <div id="menu-canvas" uk-offcanvas="overlay: true">
+        <div id="menu-canvas" uk-offcanvas="overlay: true">
             <div className="uk-offcanvas-bar">
                 <button className="uk-offcanvas-close" type="button" uk-close="true"></button>
                 <ul className="uk-list">

@@ -14,6 +14,6 @@ function AboutPage() {
             <AboutSection />
         </BackgroundImage>
     )
-}
+};
 
 export default AboutPage;
