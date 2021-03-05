@@ -6,7 +6,7 @@ import PortfolioCard from "../../components/PortfolioCard";
 import CardContainer from "../../components/CardContainer";
 import BackgroundImage from "../../components/BackgroundImage";
 import portfolioData from "../../utils/protfolioData";
-import imageURL from "../../assets/images/background/pinkhibiscus.jpg";
+import imageURL from "../../assets/images/background/hibiscus-sunset.jpg";
 
 function PortfolioPage() {
     return (
