@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import { HashRouter as Router, Route } from "react-router-dom";
 import './index.css';
 import AboutPage from "./pages/AboutPage";

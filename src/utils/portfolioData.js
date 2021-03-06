@@ -27,4 +27,5 @@ const employeeDirCard = new ProjectCard(
     "https://github.com/fbabauta/Employee-Directory"
 );
 
+// eslint-disable-next-line no-undef
 export default portfolioData;
